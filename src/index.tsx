@@ -5,9 +5,9 @@ import { StatusBar } from 'expo-status-bar';
 export default function Main() {
   return (
     <>
-      <StatusBar />
+      <StatusBar backgroundColor="" />
       <View>
-        <Text>Afonso viado</Text>
+        <Text>Teste</Text>
       </View>
     </>
   );
